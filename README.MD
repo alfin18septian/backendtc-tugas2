@@ -1,5 +1,5 @@
 
->**Materi (21 September 2021) :** <br>
+>**Materi 2 (21 September 2021) :** <br>
 >Hashes pada Ruby dan Vision Control (Git)
 
 <h2><center><u>TUGAS 2</u></center></h2>
